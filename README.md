@@ -2,9 +2,8 @@
 
 #### Website: https://www.trackingdifferences.com/
 
-This is a web scraper specifically tailored to extract information about Exchange-Traded Funds (ETFs) from various online sources. The scraper is designed to retrieve comprehensive data about ETFs, including but not limited to:
-
-<br>Title
+This is a web scraper specifically tailored to extract information about Exchange-Traded Funds (ETFs) from various online sources. The scraper is designed to retrieve comprehensive data about ETFs:
+Title
 <br>Replication
 <br>Earnings
 <br>TotalExpenseRatio
