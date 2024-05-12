@@ -1,4 +1,4 @@
-# ETF-Web-Scraper
+# ETF-Webscraper
 
 #### Website: https://www.trackingdifferences.com/
 
